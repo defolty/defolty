@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My app in private repository, named Bassport.  
-My App Statistics from Crashlytics and AppConnect down here.  
+Statistics from Crashlytics and AppConnect down here.  
 
 ![](https://i.yapx.ru/RWvXi.gif) ![](https://i.yapx.ru/RWvfJ.jpg) ![](https://i.yapx.ru/RWvfK.png)
 
