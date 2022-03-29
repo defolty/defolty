@@ -2,7 +2,7 @@
 
 ### My app Bassport in private repository.  
 ### Statistics from Crashlytics and AppConnect down here.  
-### Look for other apps in my repository. 
+### Look for other apps in my repositories. 
 
 ![](https://i.yapx.ru/RWvXi.gif) ![](https://i.yapx.ru/RWvfJ.jpg) ![](https://i.yapx.ru/RWvfK.png)
 
