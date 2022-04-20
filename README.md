@@ -9,7 +9,7 @@
 ### Light/Dark Change Appearance
 ### Stats from Firebase and AppConnect below here.  
 ### Look for other apps in my repositories.  
-![](https://i.yapx.ru/RWvXi.gif) ![](https://i.yapx.ru/RWvfJ.jpg) ![](https://i.yapx.ru/RWvfK.png)
+![](https://github.com/defolty/Bassport/blob/master/Bassport/GitPreview/ezgif-4-b16aa38653.gif) ![](https://github.com/defolty/Bassport/blob/master/Bassport/GitPreview/ezgif-4-4a0a9ca6e5.jpg) ![](https://github.com/defolty/Bassport/blob/master/Bassport/GitPreview/ezgif-4-ad43470143.png)
 
 <!--
 **defolty/defolty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
