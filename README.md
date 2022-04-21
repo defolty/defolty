@@ -4,7 +4,7 @@
 ### - Firebase(CocoaPods)
 ### - GoogleMobileAds(CocoaPods)
 ### - PanModal(SPM)
-### - Localization(Eng/Rus)
+### - Dynamic Localization(Eng/Rus)
 ### - AVFoundation
 ### - Light/Dark Change Appearance
 ### Stats from Firebase and AppConnect below here.  
