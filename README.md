@@ -3,7 +3,7 @@
 ### My app Bassport in private repository.  
 ### - Firebase(CocoaPods)
 ### - GoogleMobileAds(CocoaPods)
-### - PanModal(swift Package Manager)
+### - PanModal(Swift Package Manager)
 ### - Dynamic Localization(Eng/Rus), Storyboard Localization
 ### - AVFoundation
 ### - Light/Dark Change Appearance
