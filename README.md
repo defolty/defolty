@@ -3,6 +3,7 @@
 ### My app Bassport in private repository.  
 ### - Firebase(CocoaPods)
 ### - GoogleMobileAds(CocoaPods)
+### - IQKeyboardManagerSwift(CocoaPods)
 ### - PanModal(Swift Package Manager)
 ### - Dynamic Localization(Eng/Rus), Storyboard Localization
 ### - AVFoundation
