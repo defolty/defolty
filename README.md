@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### My app Bassport in private repository.  
-### - Firebase(CocoaPods)
+### - Firebase/Crashlytics(CocoaPods)
 ### - GoogleMobileAds(CocoaPods)
 ### - IQKeyboardManagerSwift(CocoaPods)
 ### - PanModal(Swift Package Manager)
