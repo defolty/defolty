@@ -9,9 +9,9 @@
 - AVFoundation
 - Light/Dark Appearance
 #### Stats from Firebase and AppConnect below here.  
-#### Look for other apps in my repositories.  
 ![](https://github.com/defolty/defolty/blob/main/Bassport%20Preview.gif) ![](https://github.com/defolty/defolty/blob/main/FirebaseNew.jpg) ![](https://github.com/defolty/defolty/blob/main/AppConnectNew.jpg)  
   
+## Look for other apps in my repositories ✨
 <!--
 **defolty/defolty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
