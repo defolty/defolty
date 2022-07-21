@@ -1,6 +1,6 @@
 # Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=defolty&theme=graywhite&bg_color=DEG,64A8FA,D8A3FF&show_icons=true&hide=issues&count_private=true&border_radius=25)  
-### My app Bassport is in private access.  
+### My app Bassport is in private repository.   
 - Firebase/Crashlytics(CocoaPods)
 - GoogleMobileAds(CocoaPods)
 - IQKeyboardManagerSwift(CocoaPods)
