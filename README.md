@@ -8,7 +8,7 @@
 - Dynamic Localization(Eng/Rus), Storyboard Localization
 - AVFoundation
 - Light/Dark Appearance
-#### Stats from Firebase and AppConnect below here.  
+#### Firebase stats since 1.07.2021, and AppConnect for the last 26 weeks below here.  
 ![](https://github.com/defolty/defolty/blob/main/Bassport%20Preview.gif) ![](https://github.com/defolty/defolty/blob/main/Firebase.jpg) ![](https://github.com/defolty/defolty/blob/main/AppConnect.png)  
   
 ## Look for other apps in my repositories ✨
