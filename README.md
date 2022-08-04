@@ -4,6 +4,7 @@
 - Firebase/Crashlytics(CocoaPods)
 - GoogleMobileAds(CocoaPods)
 - PanModal(SPM)
+- MVC
 - Dynamic Localization(Eng/Rus), Storyboard Localization
 - AVFoundation
 - Light/Dark Appearance
