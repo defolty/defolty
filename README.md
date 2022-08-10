@@ -8,6 +8,7 @@
 - Dynamic Localization(Eng/Rus), Storyboard Localization
 - AVFoundation
 - Light/Dark Appearance
+- UserDefaults
 #### Firebase stats since 1.07.2021, and AppConnect for the last 26 weeks.  
 ![](https://github.com/defolty/defolty/blob/main/Bassport%20Preview.gif) ![](https://github.com/defolty/defolty/blob/main/Firebase.jpg) ![](https://github.com/defolty/defolty/blob/main/AppConnect.png)  
   
