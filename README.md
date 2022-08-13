@@ -4,6 +4,8 @@
 [<img align="left" alt="defolty | LinkedIn" width="25px" src="https://img.icons8.com/officel/344/linkedin.png" />][linkedin] 
 <br /> 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=defolty&theme=graywhite&bg_color=DEG,64A8FA,D8A3FF&show_icons=true&hide=issues&count_private=true&border_radius=25)
+
 [linkedin]: https://linkedin.com/in/nikitanesporov 
 [Telegram]: http://t.me/nikitanesporov/  
 
