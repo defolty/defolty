@@ -18,6 +18,7 @@
 - AVFoundation
 - Light/Dark Appearance
 - UserDefaults 
-#### Firebase stats since 23.06.2021, and AppConnect.  
-![](https://github.com/defolty/defolty/blob/main/Bassport%20Preview.gif) ![](https://github.com/defolty/defolty/blob/main/Firebase%20Aug.jpg) ![](https://github.com/defolty/defolty/blob/main/AppConnect%20Aug.jpg)  
 
+| Preview | GoogleAnalytics | AppConnect |
+:---:|:---:|:---:
+![Preview](https://github.com/defolty/defolty/blob/main/Bassport%20Preview.gif) | ![GoogleAnalytics](https://github.com/defolty/defolty/blob/main/Firebase.jpg) | ![AppConnect](https://github.com/defolty/defolty/blob/main/AppConnect.jpg) 
