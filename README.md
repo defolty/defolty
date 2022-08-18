@@ -1,9 +1,9 @@
 # Hi there 👋 
 ### Connect with me: 
-[<img align="left" alt="defolty | Telegram" width="35px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][Telegram]
-[<img align="left" alt="defolty | LinkedIn" width="35px" src="https://img.icons8.com/officel/344/linkedin.png" />][linkedin] 
+[<img align="left" alt="defolty | Telegram" width="27px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][Telegram]
+[<img align="left" alt="defolty | LinkedIn" width="27px" src="https://img.icons8.com/officel/344/linkedin.png" />][linkedin]  
 <br /> 
-
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=defolty&theme=graywhite&bg_color=DEG,64A8FA,D8A3FF&show_icons=true&hide=issues,prs,contribs&hide_rank=true&count_private=true&border_radius=25)
 
 [linkedin]: https://linkedin.com/in/nikitanesporov 
