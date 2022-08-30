@@ -21,4 +21,4 @@
 
 | Preview | Google Analytics | App Store Connect |
 :---:|:---:|:---:
-![Preview](https://github.com/defolty/defolty/blob/main/Bassport%20Preview.gif) | ![Google Analytics](https://github.com/defolty/defolty/blob/main/Firebase.jpg) | ![App Store Connect](https://github.com/defolty/defolty/blob/main/AppConnect.jpg) 
+![Preview](https://github.com/defolty/defolty/blob/main/Bassport%20Preview.gif) | ![Google Analytics](https://github.com/defolty/defolty/blob/main/GoogleAnalytics.jpg) | ![App Store Connect](https://github.com/defolty/defolty/blob/main/AppStoreConnect.jpg) 
