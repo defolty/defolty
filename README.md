@@ -7,7 +7,7 @@
 [linkedin]: https://linkedin.com/in/nikitanesporov 
 [Telegram]: http://t.me/nikitanesporov/   
 
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=defolty&theme=graywhite&bg_color=DEG,64A8FA,D8A3FF&show_icons=true&hide=issues,prs,contribs,stars&hide_rank=true&count_private=true&border_radius=25)
+![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=defolty&theme=graywhite&bg_color=DEG,64A8FA,D8A3FF&show_icons=true&hide=commits,issues,contribs,stars&hide_rank=true&count_private=true&border_radius=25&custom_title=Total%20PRs)
 
 ### My app [Bassport](https://apps.apple.com/us/app/bassport/id1573554303) is in private repository.   
 - Firebase/Crashlytics(CocoaPods)
