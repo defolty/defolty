@@ -6,19 +6,3 @@
  
 [linkedin]: https://linkedin.com/in/nikitanesporov 
 [Telegram]: http://t.me/nikitanesporov/   
-
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=defolty&theme=graywhite&bg_color=DEG,64A8FA,D8A3FF&show_icons=true&hide=commits,issues,contribs,stars&hide_rank=true&count_private=true&border_radius=25&custom_title=Total%20PRs)
-
-### My app [Bassport](https://apps.apple.com/us/app/bassport/id1573554303) is in private repository.   
-- Firebase/Crashlytics(CocoaPods)
-- GoogleMobileAds(CocoaPods)
-- PanModal(SPM)
-- MVC
-- Dynamic Localization(Eng/Rus), Storyboard Localization
-- AVFoundation
-- Light/Dark Appearance
-- UserDefaults 
-
-| Preview | Google Analytics | App Store Connect |
-:---:|:---:|:---:
-![Preview](https://github.com/defolty/defolty/blob/main/Bassport%20Preview.gif) | ![Google Analytics](https://github.com/defolty/defolty/blob/main/Google%20Analytics.jpg) | ![App Store Connect](https://github.com/defolty/defolty/blob/main/App%20Store%20Connect.jpg) 
