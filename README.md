@@ -1,8 +1,9 @@
-# hi_there 👋 
-### connect_with_me: 
-[<img align="left" alt="defolty | Telegram" width="27px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][Telegram]
-[<img align="left" alt="defolty | LinkedIn" width="27px" src="https://img.icons8.com/officel/344/linkedin.png" />][linkedin]  
-<br /> 
- 
-[linkedin]: https://linkedin.com/in/nikitanesporov 
-[Telegram]: http://t.me/nikitanesporov/   
+<h1 align="center">nikita nesporov</h1>
+<p align="center">ios software engineer</p>
+
+<p align="center">
+  <a href="https://nesporov.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-nesporov.dev-0A0A0F?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
+  </a>
+</p>
+
